@@ -10,7 +10,6 @@
   <p align="center">
     <br />
     <a href="https://todojs-woad.vercel.app/">View Demo</a>
-    &middot;
   </p>
 </div>
 
