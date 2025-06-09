@@ -19,9 +19,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [System Modules](#system-modules)
-- [Potential Enhancements & Future Development](#potential-enhancements--future-development)
-
 
 ##  Overview
 
