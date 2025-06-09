@@ -17,7 +17,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Key Features](#key-features)
+- [Features](#features)
 - [Technology Stack](#technology-stack)
 - [System Modules](#system-modules)
 - [Potential Enhancements & Future Development](#potential-enhancements--future-development)
@@ -25,9 +25,9 @@
 
 ##  Overview
 
-A full-featured web platform designed to manage corporate workwear distribution throughout its entire lifecycle. Built from scratch during an internship to solve real-world problems for a manufacturing company — from inventory tracking to employee assignment and expiration-based replenishment.
+A simple task manager built in pure **HTML, CSS and JavaScript**, with the ability to filter, sort and store tasks in the browser's memory.
 
-### Features
+## Features
 
 - **Adding new tasks** 
 - **Marking tasks as complete** 
@@ -39,6 +39,6 @@ A full-featured web platform designed to manage corporate workwear distribution 
 
 ##  Technology Stack
 
-|JavaScript (ES6)|
-|CSS3|
-|No frameworks|
+- HTML5
+- CSS3 
+- JavaScript (ES6+)
