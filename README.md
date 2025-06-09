@@ -9,9 +9,8 @@
   <h1 align="center">ToDo app</h3>
   <p align="center">
     <br />
-    <a href="">View Demo</a>
+    <a href="https://todojs-woad.vercel.app/">View Demo</a>
     &middot;
-    <a href="">Polish version</a>
   </p>
 </div>
 
